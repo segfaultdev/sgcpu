@@ -12,5 +12,5 @@ To build, run:
 ```
 Then:
 ```bash
-./sgcpu
+./sgtk
 ```
