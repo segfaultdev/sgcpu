@@ -1,0 +1,2 @@
+# sgcpu
+seg's WONDELFUL, INCREDIBLE and POWERFUL 16-bit CPU (:
